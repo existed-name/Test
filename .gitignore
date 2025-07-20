@@ -1,12 +1,23 @@
-# IntelliJ IDEA
-.idea/
-*.iml
-*.iws
-out/
+# ==========================
+# IntelliJ IDEA 相关文件
+# ==========================
+.idea/                # IDEA 项目配置目录
+*.iml                 # 模块文件
+*.iws                 # 工作区文件
+*.ipr                 # 项目文件
+.idea_modules/        # 模块索引目录
+.idea/codeStyles/     # 代码风格配置
+.idea/misc.xml        # 杂项配置
+.idea/modules.xml     # 模块配置
+.idea/vcs.xml         # 版本控制配置
+.idea/workspace.xml   # 工作区状态
 
-# 构建目录
-target/
-build/
+# ==========================
+# 构建和编译产物
+# ==========================
+out/                  # IDEA 默认输出目录
+target/               # Maven 构建输出目录
+build/                # Gradle 构建输出目录
 
 # Compiled class file
 *.class
