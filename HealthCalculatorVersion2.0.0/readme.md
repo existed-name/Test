@@ -1,11 +1,11 @@
 [Java初学者项目-健康计算器](https://github.com/existed-name/Java-Health-Calculator.git)
-<p>
+
 所以要用 MarkDown 写 readme.md ？
-<p>
+
 readme.md 和 README.md 有什么区别🤔
-<p>
-MarkDown 语法:
-<p> Caution: 井号、星号、波浪线上一行不能是< p >等标签
+
+[Markdown 基本语法](https://markdown.com.cn/basic-syntax)  
+ Caution: 井号、星号、波浪线上一行不能是< p >等标签
   
 # "# 一级标题"
 ## "## 二级标题"
