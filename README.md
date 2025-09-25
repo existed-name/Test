@@ -23,4 +23,3 @@ Test some operations
 4. 补充仓库的 .gitignore 文件后，拖拽文件上传仍然不会忽略某些文件( out/ 文件夹、.iml 文档 )，不过上传文件夹时，网页会把它拆成多份文件，可以手动删除
 5. 使用 MarkDown 语法完善 README.md 文档
 6. 
-   
